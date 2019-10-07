@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Checkbox Rendering snapshot test: checkoutbox On 1`] = `ShallowWrapper {}`;
+
+exports[`Test Checkbox Rendering snapshot test: default off checkoutbox 1`] = `ShallowWrapper {}`;
